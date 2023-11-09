@@ -30,7 +30,7 @@ The database was Analyzed and visualized using Excel.
 2.	Mumbia is the highest selling city with the highest unit sold generating the highest revenue.
 3.	Dell XPS 13 generated the most revenue and the product with highest unit sold under the category of Headphones.
 4.	There is higher sales on Laptops having 41% of the whole sales ,followed by phones having 39% and then Headphone with 20%.. it was also noticed that Dell, Iphone and One Plus Pro products are products that sell most
-5.	Amar, Kate and Tara are the sales rep with the highest sales generally
+5.	Amar, Kate and Tara are the sales Rep with the highest sales generally
 
 
 ### Reconmendations
@@ -48,3 +48,5 @@ The database was Analyzed and visualized using Excel.
 
   
 ![sales analysis dashbaord file](https://github.com/ADETOLAADEBANJI/Sales-Data-Analysis-Project-/assets/149164492/5a3c0e62-32a1-49bf-9585-e990011850cb)
+
+
