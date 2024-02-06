@@ -11,7 +11,7 @@ The dashboard also includes interactive features that allow users to filter and 
 
 ### Sales Analysis
 
-In this project, I use a sample of a company's monthly sales dataset for 1 year (January 2021 - December 2021) in a microsoft(.xlxs) file which contain Date, product name, Category, Sales Rep, City, No of Units, Price and Amount. I analyze and visualize the data based on basic requirements.
+In this project, I used a sample of a company's monthly sales dataset for 1 year (January 2021 - December 2021) in a microsoft(.xlxs) file which contain Date, product name, Category, Sales Rep, City, No of Units, Price and Amount. I analyze and visualize the data based on basic requirements.
 
 
 ### Source Data
